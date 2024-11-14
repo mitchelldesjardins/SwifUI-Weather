@@ -1,3 +1,12 @@
+//
+//  WeatherButton.swift
+//  SwifUI-Weather
+//
+//  Created by Mitchell Desjardins on 2024-11-10.
+//
+
+import SwiftUI
+
 struct WeatherButton: View {
     var title: String
     var backgroundColor: Color
